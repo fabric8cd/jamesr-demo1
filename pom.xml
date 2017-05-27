@@ -12,7 +12,7 @@
   <packaging>jar</packaging>
 
   <name>Vert.x - HTTP</name>
-  <description>Exposes an HTTP API using Vert.x</description>
+  <description>Exposes an HTTP API using Vert.x again</description>
 
   <properties>
     <vertx.version>3.4.1</vertx.version>
